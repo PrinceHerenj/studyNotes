@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "33f02d469c44c5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd2b6ffacfc7802",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bf933f80f074b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "088ebe5e12a97b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c16cd643f653a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20292ed2cc68a74a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7039cee2530bb1d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "510fb425baef53d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bf24a72e52b243",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0dd2b6ffacfc7802",
+  "lastOpenFiles": [
+    "SE/M1/Product.md",
+    "SE/M1/Evolution.md",
+    "SE/M1/Life Cycle Models.md",
+    "Software Engineering/Untitled.md",
+    "Untitled.md"
+  ]
+}

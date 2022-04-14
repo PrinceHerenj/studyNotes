@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 445
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -84,10 +84,15 @@
   },
   "active": "0dd2b6ffacfc7802",
   "lastOpenFiles": [
-    "SE/M1/Product.md",
-    "SE/M1/Evolution.md",
-    "SE/M1/Life Cycle Models.md",
-    "Software Engineering/Untitled.md",
-    "Untitled.md"
+    "ALGO/M1/Definition of Algoritm.md",
+    "SE/M2/Software Requirements Specifications Document.md",
+    "WP/M2/Functions.md",
+    "SE/M2/SA SD Methodology.md",
+    "WP/M4/Server Control and User Controls.md",
+    "ALGO/M5/0 1 Knapsack Problem including Fractional KP.md",
+    "ALGO/M3/Dijkstra's Algorithm.md",
+    "ALGO/M3/Prim's and Kruskal's Algorithm for MST.md",
+    "WP/M3/Valid XML.md",
+    "WP/M1/HTML.md"
   ]
 }

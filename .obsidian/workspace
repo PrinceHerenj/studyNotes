@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd2b6ffacfc7802",
+        "id": "44b9da5013c690c4",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +45,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 445
+    "width": 311
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -74,6 +75,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cf5871c10a18b2f3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -82,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dd2b6ffacfc7802",
+  "active": "44b9da5013c690c4",
   "lastOpenFiles": [
-    "ALGO/M1/Definition of Algoritm.md",
-    "SE/M2/Software Requirements Specifications Document.md",
-    "WP/M2/Functions.md",
-    "SE/M2/SA SD Methodology.md",
-    "WP/M4/Server Control and User Controls.md",
-    "ALGO/M5/0 1 Knapsack Problem including Fractional KP.md",
-    "ALGO/M3/Dijkstra's Algorithm.md",
-    "ALGO/M3/Prim's and Kruskal's Algorithm for MST.md",
-    "WP/M3/Valid XML.md",
-    "WP/M1/HTML.md"
+    "SE/M5/Module 5 Software Maintenance.md",
+    "SE/M3/Module 3 Object Modeling using UML.md",
+    "SE/M4/Module 4 Testing.md",
+    "SE/M2/Module 2 Requirement Analysis and Specification.md",
+    "SE/M1/Module 1 Introduction.md",
+    "ALGO/M1/Module 1 Definition of Algorithm.md",
+    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
+    "ALGO/M3/Module 3 Greedy Method.md",
+    "ALGO/M4/Module 4 Graph Introduction.md",
+    "ALGO/M4/Breadth First Search.md"
   ]
 }

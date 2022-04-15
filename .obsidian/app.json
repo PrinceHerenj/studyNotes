@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "legacyEditor": false,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true
 }

@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1cb1ed19342dffee",
+        "id": "6e2dfe4fe9899da4",
         "type": "leaf",
+        "dimension": 58.04597701149425,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SE/M2/Cohesion and Coupling.md",
+            "file": "ALGO/M1/Module 1 Definition of Algorithm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "772501fb89896989",
+        "type": "leaf",
+        "dimension": 41.95402298850575,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ALGO/Algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 344
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/M2/Cohesion and Coupling.md",
+                "file": "ALGO/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1cb1ed19342dffee",
+  "active": "772501fb89896989",
   "lastOpenFiles": [
-    "SE/M2/Cohesion and Coupling.md",
-    "SE/M2/Analysis vs Design.md",
-    "ALGO/M4/Module 4 Graph Introduction.md",
+    "ALGO/Algorithm.md",
+    "ALGO/M1/Module 1 Definition of Algorithm.md",
+    "ALGO/M1/Space and Time Complexity.md",
+    "ALGO/M1/Algorithm Design.md",
+    "ALGO/M1/Algorithm Analysis.md",
     "ALGO/M1/Design and Performance analysis.md",
-    "ALGO/M4/Topological Sorting.md",
-    "ALGO/M4/Biconnectivity.md",
-    "ALGO/M4/Depth First Search (includes Digraph).md",
-    "ALGO/M4/Breadth First Search.md",
-    "SE/M2/Software Design.md",
-    "Untitled.md"
+    "ALGO/M3/Module 3 Greedy Method.md",
+    "ALGO/M3/Fractional Knapsack.md",
+    "ALGO/M5/N Queen Problem.md",
+    "ALGO/M5/Module 5 Backtracking Algorithm.md"
   ]
 }

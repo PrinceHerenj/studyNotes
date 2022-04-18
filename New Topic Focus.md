@@ -1,7 +1,5 @@
 important for Now
 #### Software Engineering
-* [ ] [[Cohesion and Coupling]]
-* [ ] [[Function Orinted Software Design]]
 * [ ] [[Object Oriented Software Development]]
 * [ ] [[User Interface Design]]
 

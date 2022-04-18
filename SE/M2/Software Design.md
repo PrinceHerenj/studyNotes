@@ -48,3 +48,32 @@ Modules should display **High Cohesion** and **Low Coupling**
 * Control abstraction
 
 #### [[Cohesion and Coupling]]
+#### Abstraction
+* Low Level Modules do not invoke the functions of high level modules.
+* aka Layered Design
+* High-Level Design maps functions into modules such that
+	* High Cohesion
+	* Low Coupling
+	* Modules are organized in a neat hierarchy.
+
+#### Software Design Approaches
+These two designs are different but complimentary.
+##### Function Oriented Design
+* A system that performs a set of functions
+* Each Function is refined, mapped to module structure.
+* Each function split into subfunctions.
+* Examples: Structured Design, Jackson's SD
+
+##### Object Oriented Design
+* System Viewed as a collection of objects
+* State is dentralized/ divided among objects. Each object manages its own state.
+* Objects have their own internal data.
+* Similar objects create a class.
+* May inherit features.
+* Objects communicate by message passing.
+
+##### [[Difference between FOD and OOD]]
+
+##### Fan-In Fan-Out
+Fan In: of a module is the number of immediately superordinate modules. Small Function being used inside many big funtions.
+Fan Out: of a module is the number of immediately subordinate modules.

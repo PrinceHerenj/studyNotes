@@ -18,4 +18,8 @@ Software engineering makes use of only well-understood and well-documented softw
 [[Emergence]]
 [[Life Cycle Models]]
 [[Software Project Management]]
+[[Scheduling]]
+[[Organization and Team Structure]]
+[[Risk Management]]
+[[Software Configuration]]
 

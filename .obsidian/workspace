@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "44b9da5013c690c4",
+        "id": "1cb1ed19342dffee",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SE/M2/Software Design.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 227
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -66,13 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SE/M2/Software Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44b9da5013c690c4",
+  "active": "1cb1ed19342dffee",
   "lastOpenFiles": [
-    "SE/M5/Module 5 Software Maintenance.md",
-    "SE/M3/Module 3 Object Modeling using UML.md",
-    "SE/M4/Module 4 Testing.md",
+    "SE/M2/Software Design.md",
+    "SE/M2/Cohesion and Coupling.md",
+    "SE/M2/Analysis vs Design.md",
+    "Untitled.md",
     "SE/M2/Module 2 Requirement Analysis and Specification.md",
+    "SE/M2/Software Requirements Specification.md",
+    "SE/M2/SRS.md",
+    "SE/M2/SA SD Methodology.md",
     "SE/M1/Module 1 Introduction.md",
-    "ALGO/M1/Module 1 Definition of Algorithm.md",
-    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
-    "ALGO/M3/Module 3 Greedy Method.md",
-    "ALGO/M4/Module 4 Graph Introduction.md",
-    "ALGO/M4/Breadth First Search.md"
+    "SE/M1/Evolution.md"
   ]
 }

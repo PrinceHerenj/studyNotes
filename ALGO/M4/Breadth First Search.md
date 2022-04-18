@@ -1,6 +1,6 @@
 Given Graph $G=(V,E)$ and a source vertex $S$,
 Breadth First Search intends to 
-* systematically explore all edges of G, exploring all single edges at a time.
+* systematically explore all edges of G, exploring all vertices at a time, levelwise.
 * calculates distance from source to each reachable vertex.
 * produces Breadth First Tree.
 
@@ -10,7 +10,7 @@ Breadth First Search intends to
 1. select source
 2. queue source
 3. from queue
-	* explore all adjacent vertices and mark visited
+	* explore all adjacent vertices in a level-below and mark visited
 	* enqueue all visited
 	* dequeue from the queue
 4. repeat step 3 until all visited.

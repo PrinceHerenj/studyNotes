@@ -1,10 +1,5 @@
 important for Now
 #### Software Engineering
-* [ ] [[Scheduling]]
-* [ ] [[Organization and Team Structure]]
-* [ ] [[Staffing]]
-* [ ] [[Risk management]]
-* [ ] [[Software Configuration]]
 * [ ] [[Cohesion and Coupling]]
 * [ ] [[Function Orinted Software Design]]
 * [ ] [[Object Oriented Software Development]]

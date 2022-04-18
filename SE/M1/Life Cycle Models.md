@@ -48,7 +48,7 @@ contains two activities
    Collect all relevant information regarding software to be developed from the customer point of view. Collected from enduser through interviews and discussions.
    Find out Incompleteness and inconsistencies.
 2. Requiremenes Specification
-   After the above activites are complete, the requirements are documented. This is known as the **[[Software Requirement Specifications Document]]**.    
+   After the above activites are complete, the requirements are documented. This is known as the **[[SRS]]**.    
 
 ##### Design
 SRS document is transformed into a programmable structure.

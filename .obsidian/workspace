@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SE/M2/Software Design.md",
+            "file": "ALGO/M4/Module 4 Graph Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/M2/Software Design.md",
+                "file": "ALGO/M4/Module 4 Graph Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "1cb1ed19342dffee",
   "lastOpenFiles": [
+    "ALGO/M4/Module 4 Graph Introduction.md",
+    "ALGO/M1/Design and Performance analysis.md",
+    "ALGO/M4/Topological Sorting.md",
+    "ALGO/M4/Biconnectivity.md",
+    "ALGO/M4/Depth First Search (includes Digraph).md",
+    "ALGO/M4/Breadth First Search.md",
     "SE/M2/Software Design.md",
     "SE/M2/Cohesion and Coupling.md",
     "SE/M2/Analysis vs Design.md",
-    "Untitled.md",
-    "SE/M2/Module 2 Requirement Analysis and Specification.md",
-    "SE/M2/Software Requirements Specification.md",
-    "SE/M2/SRS.md",
-    "SE/M2/SA SD Methodology.md",
-    "SE/M1/Module 1 Introduction.md",
-    "SE/M1/Evolution.md"
+    "Untitled.md"
   ]
 }

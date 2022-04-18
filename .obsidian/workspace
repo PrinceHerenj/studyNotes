@@ -6,24 +6,10 @@
       {
         "id": "6e2dfe4fe9899da4",
         "type": "leaf",
-        "dimension": 58.04597701149425,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALGO/M1/Module 1 Definition of Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "772501fb89896989",
-        "type": "leaf",
-        "dimension": 41.95402298850575,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ALGO/Algorithm.md",
+            "file": "ALGO/M1/Soriting in Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/Algorithm.md",
+                "file": "ALGO/M1/Soriting in Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "772501fb89896989",
+  "active": "6e2dfe4fe9899da4",
   "lastOpenFiles": [
+    "ALGO/M1/Soriting in Algorithms.md",
     "ALGO/Algorithm.md",
     "ALGO/M1/Module 1 Definition of Algorithm.md",
+    "ALGO/M1/Insertion Sorting.md",
+    "ALGO/M1/Asymptotic Notation.md",
+    "SE/Software Engineering.md",
     "ALGO/M1/Space and Time Complexity.md",
     "ALGO/M1/Algorithm Design.md",
     "ALGO/M1/Algorithm Analysis.md",
-    "ALGO/M1/Design and Performance analysis.md",
-    "ALGO/M3/Module 3 Greedy Method.md",
-    "ALGO/M3/Fractional Knapsack.md",
-    "ALGO/M5/N Queen Problem.md",
-    "ALGO/M5/Module 5 Backtracking Algorithm.md"
+    "ALGO/M1/Design and Performance analysis.md"
   ]
 }

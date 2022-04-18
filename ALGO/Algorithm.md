@@ -10,7 +10,7 @@
 * Definition of Algorithm✔️
 	* Design and performance analysis, 
 	* **Space and Time Complexity**
-* Asymptotic Notation
+* Asymptotic Notation✔️
 * Sorting and its types
 	* Selection Sort
 	* Insertion Sort

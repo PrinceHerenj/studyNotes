@@ -43,5 +43,5 @@ Algorithms are designed with varioud approaches.
 	* Conquer: the subproblems are solved straighforwardly or in recursive manner
 	* Combine: the solutions are combined
 
-
-
+[[Asymptotic Notation]]
+[[Soriting in Algorithms]]

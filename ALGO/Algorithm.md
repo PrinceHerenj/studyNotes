@@ -28,20 +28,19 @@
 	* Strassen's Matrix Multiplication✔️
 	* $\Large \omega \text{ and } O$ notation for above algorithms
 	* Master's Theorem✔️
-### M3
-* **Greedy Method**
-* Knapsack Applications
-* Minimal Spanning Tree
-* Prim's and Kruskal's Algorithm
+### M3✅
+* **Greedy Method**✔️
+* Knapsack Applications✔️
+* Minimal Spanning Tree✔️
+* Prim's and Kruskal's Algorithm✔️
 * Dijkstra's algorithm for 
-	* single source shortest path problem
-	* multistage graph algorithm
-* **Job Sequencing**
-* Optimal Merging of Arrays:
-* Optimizing Encoding: **Huffman Encoding**
-* **Fractional Knapsack**
+	* single source shortest path problem✔️
+* **Job Sequencing**✔️
+* Optimal Merging of Arrays✔️
+* Optimizing Encoding: **Huffman Encoding**✔️
+* **Fractional Knapsack**✔️
 
-### M4 ✅
+### M4✅
 * **Graph Algorithms**✔️
 * Breadth First Search✔️
 * Depth First Search✔️

@@ -1,0 +1,1 @@
+A problem exhibits optimal substructure if an optimal solution to the problem contains within it, optimal solutions to subproblems.

@@ -7,8 +7,12 @@
         "id": "3c5669abd3f293d2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ALGO/Algorithm.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ALGO/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +97,15 @@
   },
   "active": "3c5669abd3f293d2",
   "lastOpenFiles": [
-    "ALGO/M3/Fractional Knapsack.md",
-    "SE/M5/Module 5 Software Maintenance.md",
-    "SE/M3/Module 3 Object Modeling using UML.md",
-    "SE/M4/Module 4 Testing.md",
-    "SE/M2/Module 2 Requirement Analysis and Specification.md",
-    "SE/M1/Module 1 Introduction.md",
-    "SE/M1/Why Study Software Engineering.md",
-    "SE/M1/Evolution.md",
-    "ALGO/M5/Module 5 Backtracking Algorithm.md",
-    "ALGO/M4/Module 4 Graph Introduction.md"
+    "ALGO/Algorithm.md",
+    "ALGO/M3/Optimal Merging of Arrays.md",
+    "ALGO/M3/Dijkstra's Algorithm.md",
+    "ALGO/M3/Prim's Algorithm.md",
+    "ALGO/M3/Kruskal's Algorithm.md",
+    "ALGO/M3/Knapsack Applications.md",
+    "ALGO/M3/Optimal substructure.md",
+    "ALGO/M3/Huffman Encoding.md",
+    "ALGO/M3/Job Sequencing.md",
+    "ALGO/M3/Minimal Spanning Tree.md"
   ]
 }

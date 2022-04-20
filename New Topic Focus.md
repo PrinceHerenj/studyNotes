@@ -6,8 +6,6 @@ important for Now
 #### Algorithm
 * [ ] [[Floyd Warshall Algorithm]]
 * [ ] [[Multiplication]]
-* [ ] [[Asymptotic Notation]]
-* [ ] [[Masters Theorem]]
 * [ ] [[Huffman encoding]]
 * [ ] [[Traveling Salesman Problem]]
 * [ ] [[Hashing Algorithm]]

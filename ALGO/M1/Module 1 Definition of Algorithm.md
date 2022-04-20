@@ -42,6 +42,9 @@ Algorithms are designed with varioud approaches.
 	* Divide: Problem subdivided into subproblems
 	* Conquer: the subproblems are solved straighforwardly or in recursive manner
 	* Combine: the solutions are combined
+* Dynamic Programming
+* Greedy Algorithm
+* 
 
 [[Asymptotic Notation]]
-[[Soriting in Algorithms]]
+[[Sorting in Algorithms]]

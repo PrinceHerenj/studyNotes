@@ -6,29 +6,28 @@
 
 #subject
 
-### M1
+### M1✅
 * Definition of Algorithm✔️
 	* Design and performance analysis, 
 	* **Space and Time Complexity**
 * Asymptotic Notation✔️
-* Sorting and its types
+* Sorting and its types✔️
 	* Selection Sort
 	* Insertion Sort
 	* Bubble Sort
 
 
-### M2
-* Analysis of **Recursive Algorithm**.
-* Master's Theorem
+### M2✅
+* Analysis of **Recursive Algorithm**.✔️
 * **Divide and Conquer**
-	* General Method
-	* Binary Search
-	* finding maximum and minimum
-	* Merge Sort
-	* Quick Sort
-	* Strassen's Matrix Multiplication
+	* General Method✔️
+	* Binary Search✔️
+	* Maximum subarray problem✔️
+	* Merge Sort✔️
+	* Quick Sort✔️
+	* Strassen's Matrix Multiplication✔️
 	* $\Large \omega \text{ and } O$ notation for above algorithms
-
+	* Master's Theorem✔️
 ### M3
 * **Greedy Method**
 * Knapsack Applications

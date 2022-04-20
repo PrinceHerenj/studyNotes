@@ -6,10 +6,20 @@
       {
         "id": "6e2dfe4fe9899da4",
         "type": "leaf",
+        "dimension": 73.78246753246754,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3c5669abd3f293d2",
+        "type": "leaf",
+        "dimension": 26.217532467532468,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALGO/M1/Soriting in Algorithms.md",
+            "file": "ALGO/Algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 244
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -69,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/M1/Soriting in Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +106,15 @@
   },
   "active": "6e2dfe4fe9899da4",
   "lastOpenFiles": [
-    "ALGO/M1/Soriting in Algorithms.md",
+    "ALGO/M2/Master's Theorem.md",
     "ALGO/Algorithm.md",
-    "ALGO/M1/Module 1 Definition of Algorithm.md",
-    "ALGO/M1/Insertion Sorting.md",
-    "ALGO/M1/Asymptotic Notation.md",
-    "SE/Software Engineering.md",
-    "ALGO/M1/Space and Time Complexity.md",
-    "ALGO/M1/Algorithm Design.md",
-    "ALGO/M1/Algorithm Analysis.md",
-    "ALGO/M1/Design and Performance analysis.md"
+    "ALGO/M2/Recursion Tree Method.md",
+    "ALGO/M2/Substitution Method.md",
+    "ALGO/M2/Divide and Conquer.md",
+    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
+    "ALGO/M2/Quick Sort.md",
+    "ALGO/M2/Merge Sort.md",
+    "ALGO/M2/Binary Search.md",
+    "ALGO/M2/Maximum Subarray Problem.md"
   ]
 }

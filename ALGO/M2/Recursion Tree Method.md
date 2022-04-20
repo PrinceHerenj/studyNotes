@@ -1,0 +1,1 @@
+In recursion tree, each node represents the cost of single subproblem

@@ -14,3 +14,4 @@ $1/b$ is size of original problem.
 Recursion Tree method is a representation of an iteration method which is in the form of a tree where at each level nodes are expanded.
 
 #### [[Divide and Conquer]]
+#module

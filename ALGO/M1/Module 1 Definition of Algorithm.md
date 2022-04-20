@@ -48,3 +48,4 @@ Algorithms are designed with varioud approaches.
 
 [[Asymptotic Notation]]
 [[Sorting in Algorithms]]
+#module

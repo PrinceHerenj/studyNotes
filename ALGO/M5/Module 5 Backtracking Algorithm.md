@@ -9,3 +9,4 @@ In order to apply backtracking method the, solution must be presentable in form 
 [[Branch and Bound]]
 [[0 1 Knapsack Problem including Fractional KP]]
 [[Job assignment problem]]
+#module

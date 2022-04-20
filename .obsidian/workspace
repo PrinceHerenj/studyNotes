@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2dfe4fe9899da4",
+        "id": "3c5669abd3f293d2",
         "type": "leaf",
-        "dimension": 73.78246753246754,
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "3c5669abd3f293d2",
-        "type": "leaf",
-        "dimension": 26.217532467532468,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ALGO/Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -104,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e2dfe4fe9899da4",
+  "active": "3c5669abd3f293d2",
   "lastOpenFiles": [
-    "ALGO/M2/Master's Theorem.md",
-    "ALGO/Algorithm.md",
-    "ALGO/M2/Recursion Tree Method.md",
-    "ALGO/M2/Substitution Method.md",
-    "ALGO/M2/Divide and Conquer.md",
-    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
-    "ALGO/M2/Quick Sort.md",
-    "ALGO/M2/Merge Sort.md",
-    "ALGO/M2/Binary Search.md",
-    "ALGO/M2/Maximum Subarray Problem.md"
+    "ALGO/M3/Fractional Knapsack.md",
+    "SE/M5/Module 5 Software Maintenance.md",
+    "SE/M3/Module 3 Object Modeling using UML.md",
+    "SE/M4/Module 4 Testing.md",
+    "SE/M2/Module 2 Requirement Analysis and Specification.md",
+    "SE/M1/Module 1 Introduction.md",
+    "SE/M1/Why Study Software Engineering.md",
+    "SE/M1/Evolution.md",
+    "ALGO/M5/Module 5 Backtracking Algorithm.md",
+    "ALGO/M4/Module 4 Graph Introduction.md"
   ]
 }

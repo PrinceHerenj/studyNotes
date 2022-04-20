@@ -11,7 +11,14 @@
       "query": "tag:#subject",
       "color": {
         "a": 1,
-        "rgb": 5396192
+        "rgb": 9589192
+      }
+    },
+    {
+      "query": "tag:#module",
+      "color": {
+        "a": 1,
+        "rgb": 12369628
       }
     },
     {
@@ -38,14 +45,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
+  "textFadeMultiplier": 0.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.495897435897436,
-  "repelStrength": 12,
-  "linkStrength": 0.598461538461538,
-  "linkDistance": 60,
-  "scale": 0.4088030149535341,
+  "collapse-forces": true,
+  "centerStrength": 0.606741573033708,
+  "repelStrength": 11.2820512820513,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.1265286409409643,
   "close": true
 }

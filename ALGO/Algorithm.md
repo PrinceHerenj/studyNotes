@@ -63,6 +63,3 @@
 	* Non-Polynomial
 * Hashing Algorithm
 * **Tabling Salesman Problem**
-
-
-test

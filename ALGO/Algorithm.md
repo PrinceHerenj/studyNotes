@@ -3,6 +3,7 @@
 [[Module 3 Greedy Method]]
 [[Module 4 Graph Introduction]]
 [[Module 5 Backtracking Algorithm]]
+[[Dynamic Programming]]
 
 #subject
 
@@ -55,11 +56,11 @@
 * 0/1 Knapsack problem✔️
 * Job assignment Problem using Branch and Bound✔️
 
-### Also in Dynamic Programming✅
+### Dynamic Programming✅
 * All pair shortest path: **Floyd Warshall algorithm**✔️
 * Multiplication Alzebraic
 	* Multichain✔️
-	* Polynomial
+	* Polynomial✔️
 * Hashing Algorithm✔️
 * **Tabling Salesman Problem**✔️
 * 0/1 Knapsack Problem✔️

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALGO/Dynamic Programming/DAC vs DP.md",
+            "file": "ALGO/Algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/Dynamic Programming/DAC vs DP.md",
+                "file": "ALGO/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "c1af872d40804e5b",
   "lastOpenFiles": [
+    "ALGO/Algorithm.md",
     "ALGO/Dynamic Programming/DAC vs DP.md",
     "ALGO/Dynamic Programming/Dynamic Programming.md",
-    "ALGO/Algorithm.md",
     "ALGO/Dynamic Programming/Matrix Chain Multiplication.md",
     "ALGO/Dynamic Programming/Hashing Algorithm.md",
     "ALGO/Dynamic Programming/0 1 Knapsack Problem.md",

@@ -1,10 +1,4 @@
-#### Knapsack Problem
-in general, knapsack problem involves a bag with limited bag capacity and each item has some weight and value.
-The problem is to select items such that weight limit is not exceeded while keeping the maximal values of individual items.
-
-0/1 Knapsack implies that the items cannot be broken down, and are either in or out.
-Fractional Knapsack impies that the items can be broken down, to increase total value.
-
+#### [[Knapsack Problem]]
 0/1 Knapsack is best solved with dynamic programming; Fractional with Greedy Approach.
 
 #### 0/1 Knapsack using Branch and Bound.
@@ -22,3 +16,10 @@ Branch and Bound is the best solution when weights are not integers
 	* Consider the case when next level node is not considered as part of solution and add a node to queue with level as next, but weight and profit without considering next level nodes.
 
 ![[Pasted image 20220415223317.png]]
+
+#### Knapsack Problem
+in general, knapsack problem involves a bag with limited bag capacity and each item has some weight and value.
+The problem is to select items such that weight limit is not exceeded while keeping the maximal values of individual items.
+
+0/1 Knapsack implies that the items cannot be broken down, and are either in or out.
+Fractional Knapsack impies that the items can be broken down, to increase total value.

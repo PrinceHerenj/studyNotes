@@ -55,11 +55,11 @@
 * 0/1 Knapsack problem✔️
 * Job assignment Problem using Branch and Bound✔️
 
-### Also in Dynamic Programming
-* All pair shortest path: **Floyd Warshall algorithm**
+### Also in Dynamic Programming✅
+* All pair shortest path: **Floyd Warshall algorithm**✔️
 * Multiplication Alzebraic
-	* Multichain
+	* Multichain✔️
 	* Polynomial
-	* Non-Polynomial
-* Hashing Algorithm
-* **Tabling Salesman Problem**
+* Hashing Algorithm✔️
+* **Tabling Salesman Problem**✔️
+* 0/1 Knapsack Problem✔️

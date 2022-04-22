@@ -3,5 +3,5 @@ There are n items each having a value and weight pair, and a bag/knapsack with a
 **Time Complexity**: $O(n\times w)$
 
 #### Fractional Problem
-Similar to above knapsack problem, the difference being that the items can be broken down into fractions.
+Similar to above knapsack problem, the difference being that the items can be broken down into fractions. Take highest value per unit weight ratio first.
 **Time Complexity**: $O(n.log\ n)$

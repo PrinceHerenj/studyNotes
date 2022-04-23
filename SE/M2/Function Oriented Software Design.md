@@ -92,11 +92,11 @@ Asynchronous Operation: If two bubbles connected via data store.
 	* = equivalence
 	* * comment*
 
-#### Balancing a DFD
+##### Balancing a DFD
 * Data flowing into or out of bubble must match the data flows of the next level of DFDs
 * Number the bubbles in DFD
 
-#### Example DFD
+##### Example DFD
 ![[Pasted image 20220418212241.png]]
 ![[Pasted image 20220418212250.png]]
 ![[Pasted image 20220418212302.png]]

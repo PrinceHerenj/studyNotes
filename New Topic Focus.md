@@ -1,14 +1,4 @@
 important for Now
-#### Software Engineering
-* [ ] [[Object Oriented Software Development]]
-* [ ] [[User Interface Design]]
-
-#### Algorithm
-* [ ] [[Floyd Warshall Algorithm]]
-* [ ] [[Multiplication]]
-* [ ] [[Huffman encoding]]
-* [ ] [[Traveling Salesman Problem]]
-* [ ] [[Hashing Algorithm]]
 
 #### Web Programming
 - [ ] [[ASP.Net Introduction]]

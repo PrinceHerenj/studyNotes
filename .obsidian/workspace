@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c1af872d40804e5b",
+        "id": "3c9361aee6b0fbc6",
         "type": "leaf",
+        "dimension": 62.568306010928964,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALGO/Algorithm.md",
+            "file": "SE/M3/User Interface Design.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c1af872d40804e5b",
+        "type": "leaf",
+        "dimension": 37.43169398907104,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SE/Software Engineering.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 259
   },
   "right": {
     "id": "7039cee2530bb1d4",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/Algorithm.md",
+                "file": "SE/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +111,15 @@
   },
   "active": "c1af872d40804e5b",
   "lastOpenFiles": [
-    "ALGO/Algorithm.md",
-    "ALGO/Dynamic Programming/DAC vs DP.md",
-    "ALGO/Dynamic Programming/Dynamic Programming.md",
-    "ALGO/Dynamic Programming/Matrix Chain Multiplication.md",
-    "ALGO/Dynamic Programming/Hashing Algorithm.md",
-    "ALGO/Dynamic Programming/0 1 Knapsack Problem.md",
-    "ALGO/M5/0 1 Knapsack Problem including Fractional KP.md",
-    "ALGO/M5/Job assignment problem.md",
-    "ALGO/M5/Knapsack Problem.md",
-    "ALGO/Dynamic Programming/Traveling Salesman Problem.md"
+    "SE/Software Engineering.md",
+    "SE/M3/User Interface Design.md",
+    "SE/M3/Module 3 Object Modeling using UML.md",
+    "SE/M3/Object Oriented Analysis and Design.md",
+    "SE/M3/Object Oriented Software Development.md",
+    "SE/M3/Aggregation vs Inheritance.md",
+    "SE/M3/Object Oriented Design.md",
+    "SE/M3/More Diagrams.md",
+    "SE/M2/Structure Analysis vs Structured Design.md",
+    "SE/M2/Function Oriented Software Design.md"
   ]
 }

@@ -42,21 +42,21 @@
 	* Structured Design
 	* Detailed Design
 
-### M3
-* Object Modeling using UML
-* UML Diagrams
+### M3✅
+* Object Modeling using UML✔️
+* UML Diagrams✔️
 	* Use Case Model
 	* Class Diagrams
 * Object Oriented Software Development
-	* Design Patterns
-	* Object Oriented analyis and design process
-	* OOD Goodness Criteria
+	* Design Patterns✔️
+	* Object Oriented analyis✔️ and design process✔️
+	* OOD Goodness Criteria✔️
 * UI Design
-	* Characteristics
-	* Basic Concepts
-	* Types
-	* Component Based GUI development
-	* UI design methodology
+	* Characteristics✔️
+	* Basic Concepts✔️
+	* Types✔️
+	* Component Based GUI development✔️
+	* UI design methodology✔️
 
 ### M4
 * Coding and Testing:

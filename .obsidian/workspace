@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9361aee6b0fbc6",
+        "id": "c1af872d40804e5b",
         "type": "leaf",
-        "dimension": 62.568306010928964,
+        "dimension": 60.89943785134291,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,9 +17,9 @@
         }
       },
       {
-        "id": "c1af872d40804e5b",
+        "id": "8592fe5e13264d7f",
         "type": "leaf",
-        "dimension": 37.43169398907104,
+        "dimension": 39.10056214865709,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Engineering.md",
+                "file": "SE/M3/User Interface Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "c1af872d40804e5b",
   "lastOpenFiles": [
-    "SE/Software Engineering.md",
     "SE/M3/User Interface Design.md",
+    "SE/Software Engineering.md",
     "SE/M3/Module 3 Object Modeling using UML.md",
+    "SE/M4/Software Reliability and Quality Management.md",
+    "New Topic Focus.md",
     "SE/M3/Object Oriented Analysis and Design.md",
     "SE/M3/Object Oriented Software Development.md",
     "SE/M3/Aggregation vs Inheritance.md",
     "SE/M3/Object Oriented Design.md",
-    "SE/M3/More Diagrams.md",
-    "SE/M2/Structure Analysis vs Structured Design.md",
-    "SE/M2/Function Oriented Software Design.md"
+    "SE/M3/More Diagrams.md"
   ]
 }

@@ -126,3 +126,7 @@ Widget is short for window object.
 Advantages
 * Provide Consistency
 * Improve user's productivity by higher performance and lesser errors
+
+#### UI Design Methodology
+No step by step methodology is available.
+* User Centered design is the theme of almost all modern user interface design techniques.

@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/M4/Six Sigma.md",
+                "file": "SE/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1af872d40804e5b",
+  "active": "23a2c894240a9c3d",
   "lastOpenFiles": [
+    "SE/Software Engineering.md",
     "SE/M4/Six Sigma.md",
     "SE/M4/Software Quality Management.md",
     "SE/M4/Personal Software Process.md",
@@ -125,7 +126,6 @@
     "SE/M4/CMMI.md",
     "SE/M4/ISO 9001 vs SEI CMM.md",
     "SE/M4/ISO 9000.md",
-    "SE/Software Engineering.md",
     "SE/M4/Module 4 Testing.md",
     "SE/M4/Testing Phase.md"
   ]

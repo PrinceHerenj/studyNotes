@@ -58,7 +58,7 @@
 	* Component Based GUI development✔️
 	* UI design methodology✔️
 
-### M4
+### M4✅
 * Coding and Testing:✔️
 	* Coding
 	* Code Review
@@ -77,10 +77,10 @@
 	* Statistical Testing✔️
 	* Software Quality
 		* SQ management System✔️
-		* ISO 9000
-		* SEI CMM
-		* Personal Software Process
-		* Six Sigma
+		* ISO 9000✔️
+		* SEI CMM✔️
+		* Personal Software Process✔️
+		* Six Sigma✔️
 
 ### M5
 * Software Maintainence

@@ -123,9 +123,35 @@ Widget is short for window object.
 * Building blocks of interface design
 * Data of window object are: Geometric attributes size and location and general attributes like foreground and background color.
 
-Advantages
+**Advantages**
 * Provide Consistency
 * Improve user's productivity by higher performance and lesser errors
+
+##### Types of Widgets
+* Different interface programming packages support different widget sets
+* Label Widget: Display a label text
+* Container Widget: Contain other widgets; When moved or resized, constituents also get moved or resized.
+* Pop-Up and Pull-Down menu: Tasl Specific
+* Dialogue Boxes: Help select multiple elements from a selection list, Dialog box remains visiible until explicitly dismissed by user
+	* Ask you to enter some information.
+	* may also be purely informative
+* Push Button
+* Radio Buttons
+
+#### X-Window/ MOTIF
+* Allow development of portable GUIs.
+* User Interface is device independent, network independent, can display on terminal
+	* Based on client server model of computation. Contains C level functions
+
+##### MOTIF
+X-toolkit consists of
+* A set of basic widgets
+* Routines to stitch the widgets into an interface.
+* Most widely used is MOTIF/OSF
+
+##### Visual Languages
+Visual Languages recognise user interface as an important program component
+VB and C++ provide tools for building programs with window-based user interfaces.
 
 #### UI Design Methodology
 No step by step methodology is available.

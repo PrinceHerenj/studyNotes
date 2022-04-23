@@ -4,30 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c1af872d40804e5b",
-        "type": "leaf",
-        "dimension": 60.89943785134291,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SE/M3/User Interface Design.md",
-            "mode": "source",
-            "source": false
+        "id": "2a91334eb42dd3b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "c1af872d40804e5b",
+            "type": "leaf",
+            "dimension": 73.67055771725033,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE/M4/Six Sigma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a2c894240a9c3d",
+            "type": "leaf",
+            "dimension": 26.329442282749678,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE/Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "8592fe5e13264d7f",
-        "type": "leaf",
-        "dimension": 39.10056214865709,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SE/Software Engineering.md",
-            "mode": "source",
-            "source": false
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/M3/User Interface Design.md",
+                "file": "SE/M4/Six Sigma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +118,15 @@
   },
   "active": "c1af872d40804e5b",
   "lastOpenFiles": [
-    "SE/M3/User Interface Design.md",
+    "SE/M4/Six Sigma.md",
+    "SE/M4/Software Quality Management.md",
+    "SE/M4/Personal Software Process.md",
+    "SE/M4/SEI CMM.md",
+    "SE/M4/CMMI.md",
+    "SE/M4/ISO 9001 vs SEI CMM.md",
+    "SE/M4/ISO 9000.md",
     "SE/Software Engineering.md",
-    "SE/M3/Module 3 Object Modeling using UML.md",
-    "SE/M4/Software Reliability and Quality Management.md",
-    "New Topic Focus.md",
-    "SE/M3/Object Oriented Analysis and Design.md",
-    "SE/M3/Object Oriented Software Development.md",
-    "SE/M3/Aggregation vs Inheritance.md",
-    "SE/M3/Object Oriented Design.md",
-    "SE/M3/More Diagrams.md"
+    "SE/M4/Module 4 Testing.md",
+    "SE/M4/Testing Phase.md"
   ]
 }

@@ -24,7 +24,7 @@ Requirement Problems in detail
 2. Inconsistency: Two requirements are said to be inconsistent, if one of the requirements contradicts the other.
 3. Incompleteness: Incomplete set of requirements is one in whihc some requirement has been overlooked.
 
-[[Software Requirements Specification]]
-[[Software Design]]
-[[Function Oriented Software Design]]
+#### [[Software Requirements Specification]]
+#### [[Software Design]]
+#### [[Function Oriented Software Design]]
 #module

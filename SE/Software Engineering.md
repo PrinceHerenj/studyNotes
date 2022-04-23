@@ -59,23 +59,24 @@
 	* UI design methodology✔️
 
 ### M4
-* Coding and Testing:
+* Coding and Testing:✔️
 	* Coding
 	* Code Review
-* Testing
-	* Unit Testing
-	* Black Box Testing
-	* White Box Testing
-	* Debugging
-	* Program Analysis Tools
-	* Integration Testing
-	* System Testing
+	* Code Documentation
+* Testing✔️
+	* Unit Testing✔️
+	* Black Box Testing✔️
+	* White Box Testing✔️
+	* Debugging✔️
+	* Program Analysis Tools✔️
+	* Integration Testing✔️
+	* System Testing✔️
 	* General Issues
 * Software Reliability and Quality Management
 	* Software Reliability
-	* Statistical Testing
+	* Statistical Testing✔️
 	* Software Quality
-		* SQ management System
+		* SQ management System✔️
 		* ISO 9000
 		* SEI CMM
 		* Personal Software Process

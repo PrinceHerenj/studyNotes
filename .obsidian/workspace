@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a91334eb42dd3b7",
-        "type": "split",
-        "children": [
-          {
-            "id": "c1af872d40804e5b",
-            "type": "leaf",
-            "dimension": 73.67055771725033,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/M4/Six Sigma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23a2c894240a9c3d",
-            "type": "leaf",
-            "dimension": 26.329442282749678,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/Software Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "e1193c6d24f5ddf2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ALGO/Algorithm.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -61,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#m",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Engineering.md",
+                "file": "ALGO/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,24 +88,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "23a2c894240a9c3d",
+  "active": "e1193c6d24f5ddf2",
   "lastOpenFiles": [
-    "SE/Software Engineering.md",
-    "SE/M4/Six Sigma.md",
-    "SE/M4/Software Quality Management.md",
-    "SE/M4/Personal Software Process.md",
-    "SE/M4/SEI CMM.md",
-    "SE/M4/CMMI.md",
-    "SE/M4/ISO 9001 vs SEI CMM.md",
-    "SE/M4/ISO 9000.md",
-    "SE/M4/Module 4 Testing.md",
-    "SE/M4/Testing Phase.md"
+    "ALGO/Algorithm.md",
+    "ALGO/Dynamic Programming/DAC vs DP.md",
+    "ALGO/Dynamic Programming/Floyd Warshall Algorithm.md",
+    "ALGO/Dynamic Programming/Hashing Algorithm.md",
+    "ALGO/Dynamic Programming/Traveling Salesman Problem.md",
+    "ALGO/Dynamic Programming/Matrix Chain Multiplication.md",
+    "ALGO/Dynamic Programming/0 1 Knapsack Problem.md",
+    "ALGO/Dynamic Programming/Dynamic Programming.md",
+    "ALGO/M3/Dijkstra's Algorithm.md",
+    "ALGO/M2/Divide and Conquer.md"
   ]
 }

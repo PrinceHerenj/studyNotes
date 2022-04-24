@@ -1,7 +1,7 @@
 #### Definition
-* Used to make meaningful statements about efficiency of an algorithm. Help us make meaningful assumtions.
-* The most efficient algorithm is chosen to solve any problem.
-* System config ignored. Order of Growth important.
+* Used to make meaningful statements about ==efficiency== of an algorithm. Help us make meaningful assumtions.
+* The ==most efficient== algorithm is chosen to solve any problem.
+* System ==config ignored==. ==Order of Growth== important.
 
 #### Types
 $\text{Big O Notation}$ : Upper Bound
@@ -29,11 +29,11 @@ The function $f(N)$ = $O\ g(N)$, if and only if $\exists$ constants c and $n_0$ 
 $f(N)\le c*g(N)\ ,\forall\ n \ge n_0$
 
 #### $\text{Big }\Omega \text{ Notation}$
-The function $f(N)$ = $O\ g(N)$, if and only if $\exists$ constants c and $n_0$  such that
+The function $f(N)$ = $\Omega\ g(N)$, if and only if $\exists$ constants c and $n_0$  such that
 $f(N)\ge c*g(N)\ ,\forall\ n \ge n_0$
 
 #### $\text{Big }\Theta \text{ Notation}$
-The function $f(N)$ = $O\ g(N)$, if and only if $\exists$ constants c1, c2 and $n_0$  such that
+The function $f(N)$ = $\Theta\ g(N)$, if and only if $\exists$ constants c1, c2 and $n_0$  such that
 $c1*g(N)\le f(N)\le c2*g(N)\ ,\forall\ n \ge n_0$
 
 

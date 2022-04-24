@@ -64,3 +64,6 @@ class GFG {
     }
 }
 ```
+
+##### Time Complexity
+$O(n*k*log(n*k))$

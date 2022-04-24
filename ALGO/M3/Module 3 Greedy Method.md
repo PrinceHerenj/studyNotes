@@ -3,7 +3,7 @@ Algorithm for optimzation prblems typically go through a sequence of steps, with
 
 A **greedy algorithm** design always makes the choice that looks best at the moment. That is, it makes a locally optimal choice in the hope that this choice wil lead to a globally optimal solution.
 
-Greedy algorithms do not always yield optimal solutions, but for many problems they do.g
+Greedy algorithms do not always yield optimal solutions, but for many problems they do.
 
 **Elements/Steps** for greedy stratergy
 * Determine [[Optimal substructure]]

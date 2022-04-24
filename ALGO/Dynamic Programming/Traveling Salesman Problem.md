@@ -6,6 +6,7 @@ $g(1,\{2,3,4\})=min\{C_{1k}+g(k,\{2,3,4\}-\{k\})\}$
 Following Tabulation method of DP
 
 * Create Tree structure
+* HAVE a Adjacency Matrix Notation of graph of travelling cities
 * Find out cost of returning back to 1 from end nodes, i.e.
   $g(i, \phi)$ where $i \in\{2,3,4\}...eq(i)$
 	  $g(2,\phi)=5$

@@ -1,6 +1,6 @@
-Dynamic Programming is mainly an optimization over plain recursion. Whereever we see a recursuve solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming.
+Dynamic Programming is mainly an optimization over plain recursion. Whereever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming.
 
-A problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems.
+[[Optimal substructure]]
 
 #### Storing values for reusage
 * **Tabulation**: Bottom Up

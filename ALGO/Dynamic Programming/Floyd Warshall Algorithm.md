@@ -1,8 +1,19 @@
-Floyd Warshall Algorhtm is for solving the All Pairs Shorted Path problem. The problem is to find shortest distances between every pair of vertices in a given edge weighter directed graph.
+Floyd Warshall Algorhtm is for solving the All Pairs Shortest Path problem. The problem is to find shortest distances between every pair of vertices in a given edge weighter directed graph.
+
+##### Common Formula for generating Matrices
+Given adjacency matrix $A^0$
+$A^k [i,j] = min\{A^{k-1} [i,j],A^{k-1} [i,k]+A^{k-1} [k,j]\}$
+where k is the passing through vertex
 
 #### Algorithm
-* Solution matrix initialized as = input matrix.
+* Solution matrix initialized as = input matrix. (adjacency matrix)
+* If no direct edge then distance is INFINITY
 * One by One pick all vertices as path-through vertices.
+	* Create separate matrices for passing through each vertex.
+	* For Vertex say 1, dont change row and column values and left diagonal
+	* Then update shortest paths
+		* for example, separate matrix for passing through vertex 1, going 2->4
+		* ![[Pasted image 20220424203939.png]]
 * Update shortest paths
 
 $\large dist[i][j]$ same if k not intermediate vertex
@@ -57,3 +68,8 @@ class floydWar {
     }
 }
 ```
+
+##### Time Complexity
+$O(n^3)$
+
+Dijkstra's algorithm for all pairs shortest path = $O(n^2*n)=O(n^3)$

@@ -7,8 +7,8 @@ $O(n^2)$
 
 **Algorithm**
 * Sort all jobs in decreasing order of profit.
-* Iterate on jobs indecreasing order of profit. For each:
-	* Find time slot, such that slot is empty and i < deadline and i is greatest. Put the job in this slot and mark this slot filled.
+* Iterate on jobs in decreasing order of profit. For each:
+	* Find time slot, such that slot is empty and i < deadline and profit(i) is greatest. Put the job in this slot and mark this slot filled.
 	* If no such i exists, then ignore the job.
 
 ```cs

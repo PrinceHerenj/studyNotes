@@ -7,6 +7,6 @@ In order to apply backtracking method the, solution must be presentable in form 
 
 [[N Queen Problem]]
 [[Branch and Bound]]
-[[0 1 Knapsack Problem including Fractional KP]]
+[[Knapsack Problem]]
 [[Job assignment problem]]
 #module

@@ -33,130 +33,67 @@ Tree Structure Created when visiting vertices from source and so onward
 **C# implementation** (not required)
 ```cs
 using System;
-
 using System.Collections.Generic;
-
 using System.Linq;
-
 using System.Text;
 
-  
-
 class Graph {
+    private int _V; // vertices in graph
+    LinkedList<int>[] _adj; // adjacency list
 
-    private int _V; // vertices in graph
+    public Graph(int V) {
+        _adj = new LinkedList<int>[V];
+        for(int i = 0; i < _adj.Length; i++) {
+            _adj[i] = new LinkedList<int>();
+        }
+        _V = V;
+    } // constructor
 
-    LinkedList<int>[] _adj; // adjacency list
+    public void AddEdge(int u, int v) {
+        _adj[u-1].AddLast(v-1);
+    } // adding an edge
 
-  
+    public void BFS(int s) {
+        bool[] visited = new bool[_V];
+        for(int i = 0; i < _V; i++) {
+            visited[i] = false;
+        }
+        LinkedList<int> queue = new LinkedList<int>();
 
-    public Graph(int V) {
+        visited[s] = true;
+        queue.AddLast(s);
 
-        _adj = new LinkedList<int>[V];
+        while(queue.Any()) {
+            s = queue.First();
+            Console.Write(s+1 + " ");
+            queue.RemoveFirst();
 
-        for(int i = 0; i < _adj.Length; i++) {
+            LinkedList<int> list = _adj[s];
 
-            _adj[i] = new LinkedList<int>();
+            foreach (var val in list) {
+                if(!visited[val]) {
+                    visited[val] = true;
+                    queue.AddLast(val);
+                }
+            }
+        }
+    }
 
-        }
+    static void Main(string[] args) {
+        Graph g = new Graph(6);
 
-        _V = V;
+        g.AddEdge(1,2);
+        g.AddEdge(1,3);
+        g.AddEdge(2,4);
+        g.AddEdge(2,5);
+        g.AddEdge(3,5);
+        g.AddEdge(4,5);
+        g.AddEdge(4,6);
+        g.AddEdge(5,6);
 
-    } // constructor
-
-  
-
-    public void AddEdge(int u, int v) {
-
-        _adj[u-1].AddLast(v-1);
-
-    } // adding an edge
-
-  
-
-    public void BFS(int s) {
-
-        bool[] visited = new bool[_V];
-
-        for(int i = 0; i < _V; i++) {
-
-            visited[i] = false;
-
-        }
-
-        LinkedList<int> queue = new LinkedList<int>();
-
-  
-
-        visited[s] = true;
-
-        queue.AddLast(s);
-
-  
-
-        while(queue.Any()) {
-
-            s = queue.First();
-
-            Console.Write(s+1 + " ");
-
-            queue.RemoveFirst();
-
-  
-
-            LinkedList<int> list = _adj[s];
-
-  
-
-            foreach (var val in list) {
-
-                if(!visited[val]) {
-
-                    visited[val] = true;
-
-                    queue.AddLast(val);
-
-                }
-
-            }
-
-        }
-
-    }
-
-  
-
-    static void Main(string[] args) {
-
-        Graph g = new Graph(6);
-
-  
-
-        g.AddEdge(1,2);
-
-        g.AddEdge(1,3);
-
-        g.AddEdge(2,4);
-
-        g.AddEdge(2,5);
-
-        g.AddEdge(3,5);
-
-        g.AddEdge(4,5);
-
-        g.AddEdge(4,6);
-
-        g.AddEdge(5,6);
-
-  
-
-        Console.Write("BFS Traversal source =  1\n");
-
-        g.BFS(0);
-
-    }
-
-  
+        Console.Write("BFS Traversal source =  1\n");
+        g.BFS(0);
+    }
 
 }
 ```

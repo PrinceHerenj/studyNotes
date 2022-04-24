@@ -17,8 +17,8 @@ Time Space Tradeoff
 
 #### Complexity of Algorithm
 * Function which gives time function (running time) or space function (memory utilized) in terms of input size
-* Time complexity of a program is the amount of computational time which it needs to completion. Independent of Implementation and programming Language.
-* Space Complexity of a program is the amount of storage that it requires for execution. Measured by the variables used by it
+* ==Time complexity== of a program is the amount of computational time which it needs to completion. Independent of Implementation and programming Language.
+* ==Space Complexity== of a program is the amount of storage that it requires for execution. Measured by the variables used by it
 
 ##### Algorithm Analysis
 Analysis means to predict the resources that an algorithm requires. Resources such as memory, communication bandwidth, or computer hardware are primary concern of analysis occasionally, but it is the **computational time** that we want to measure at all times.
@@ -33,10 +33,10 @@ $an^2+bn+c$
 
 Average case Running Time:
 
-Order of Growth: The leading term in running time (eg: $n^2$) is used to determine the order of growth. Represented as $\theta (n^2)$
+**Order of Growth**: The leading term in running time (eg: $n^2$) is used to determine the order of growth. Represented as $\theta (n^2)$
 
 ##### Algorithm Design
-Algorithms are designed with varioud approaches.
+Algorithms are designed with various ==approaches==.
 * Incremental Approach
 * Divide and Conquer Approach
 	* Divide: Problem subdivided into subproblems
@@ -44,7 +44,6 @@ Algorithms are designed with varioud approaches.
 	* Combine: the solutions are combined
 * Dynamic Programming
 * Greedy Algorithm
-* 
 
 [[Asymptotic Notation]]
 [[Sorting in Algorithms]]

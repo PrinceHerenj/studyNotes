@@ -40,108 +40,57 @@ are **called Finishing Times**.
 **C# Implementation** (not required)
 ```cs
 using System;
-
 using System.Collections.Generic;
-
 using System.Linq;
-
 using System.Text;
 
-  
-
 class Graph {
+    private int _V;
+    private LinkedList<int>[] _adj;
 
-    private int _V;
+    public Graph(int V) {
+        _adj = new LinkedList<int>[V];
+        for(int i = 0; i<_adj.Length; i++) {
+            _adj[i] = new LinkedList<int>();
+        }
+        _V = V;
+    }
 
-    private LinkedList<int>[] _adj;
+    public void AddEdge(int u, int v) {
+        _adj[u-1].AddLast(v-1);
+    }
 
-  
+    public void DFSUtil(int v, bool[] visited) {
+        visited[v] = true;
+        Console.Write(v + " ");
 
-    public Graph(int V) {
+        LinkedList<int> vList = _adj[v];
+        foreach(var val in vList) {
+            if(!visited[val])
+                DFSUtil(val, visited);
+        }
+    }
 
-        _adj = new LinkedList<int>[V];
+    public void DFS(int s) {
+        bool[] visited = new bool[_V];
+        DFSUtil(s, visited);
+    }
 
-        for(int i = 0; i<_adj.Length; i++) {
+    public static void Main(string[] args) {
+        Graph g = new Graph(6);
 
-            _adj[i] = new LinkedList<int>();
+        g.AddEdge(1,2);
+        g.AddEdge(1,3);
+        g.AddEdge(2,4);
+        g.AddEdge(2,5);
+        g.AddEdge(3,5);
+        g.AddEdge(4,5);
+        g.AddEdge(4,6);
+        g.AddEdge(5,6);
+        
 
-        }
-
-        _V = V;
-
-    }
-
-  
-
-    public void AddEdge(int u, int v) {
-
-        _adj[u-1].AddLast(v-1);
-
-    }
-
-  
-
-    public void DFSUtil(int v, bool[] visited) {
-
-        visited[v] = true;
-
-        Console.Write(v + " ");
-
-  
-
-        LinkedList<int> vList = _adj[v];
-
-        foreach(var val in vList) {
-
-            if(!visited[val])
-
-                DFSUtil(val, visited);
-
-        }
-
-    }
-
-  
-
-    public void DFS(int s) {
-
-        bool[] visited = new bool[_V];
-
-        DFSUtil(s, visited);
-
-    }
-
-  
-
-    public static void Main(string[] args) {
-
-        Graph g = new Graph(6);
-
-  
-
-        g.AddEdge(1,2);
-
-        g.AddEdge(1,3);
-
-        g.AddEdge(2,4);
-
-        g.AddEdge(2,5);
-
-        g.AddEdge(3,5);
-
-        g.AddEdge(4,5);
-
-        g.AddEdge(4,6);
-
-        g.AddEdge(5,6);
-
-  
-
-        Console.Write("BFS Traversal source =  1\n");
-
-        g.DFS(0);
-
-    }
-
+        Console.Write("BFS Traversal source =  1\n");
+        g.DFS(0);
+    }
 }
 ```

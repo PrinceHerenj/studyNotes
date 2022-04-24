@@ -7,7 +7,7 @@
 
 #subject
 
-### M1✅
+### M1✅✅
 * Definition of Algorithm✔️
 	* Design and performance analysis, 
 	* **Space and Time Complexity**
@@ -18,7 +18,7 @@
 	* Bubble Sort
 
 
-### M2✅
+### M2✅✅
 * Analysis of **Recursive Algorithm**.✔️
 * **Divide and Conquer**
 	* General Method✔️
@@ -29,7 +29,7 @@
 	* Strassen's Matrix Multiplication✔️
 	* $\Large \omega \text{ and } O$ notation for above algorithms
 	* Master's Theorem✔️
-### M3✅
+### M3✅✅
 * **Greedy Method**✔️
 * Knapsack Applications✔️
 * Minimal Spanning Tree✔️
@@ -41,7 +41,7 @@
 * Optimizing Encoding: **Huffman Encoding**✔️
 * **Fractional Knapsack**✔️
 
-### M4✅
+### M4✅✅
 * **Graph Algorithms**✔️
 * Breadth First Search✔️
 * Depth First Search✔️
@@ -49,14 +49,14 @@
 * Depth First Search of Digraph✔️
 * Topological Sorting✔️
 
-### M5✅
+### M5✅✅
 * **Backtracking Algorithm**✔️
 * N Queen Problem✔️
 * **Branch and Bound**✔️
 * 0/1 Knapsack problem✔️
 * Job assignment Problem using Branch and Bound✔️
 
-### Dynamic Programming✅
+### Dynamic Programming✅✅
 * All pair shortest path: **Floyd Warshall algorithm**✔️
 * Multiplication Alzebraic
 	* Multichain✔️

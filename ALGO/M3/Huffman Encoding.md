@@ -1,4 +1,4 @@
-Hoffman Coding is a lossless data compressio algorithm. The idea is to assign variable length codes to input characters, lengths of the assigned codes are bases on the frequencies of corresponding characters. The most frequent codes get the smallest code and the least frequent character gets the largest code.
+Huffman Coding is a lossless data compression algorithm. The idea is to assign variable length codes to input characters, lengths of the assigned codes are bases on the frequencies of corresponding characters. The most frequent codes get the smallest code and the least frequent character gets the largest code.
 
 #### Algorithm
 * Create a leaf node for each unique character and build a min heap of all leaf nodes.
@@ -6,7 +6,7 @@ Hoffman Coding is a lossless data compressio algorithm. The idea is to assign va
 * Create a new internal node with a frequency equal to the sum of the two nodes frequencies. Make the first extracted node as its left child and the other extracted node as the righ head.
 * Repeat previous two steps until the heap contains only one node. The remaining node is the root node and the tree is complete.
 
-**Time Complexity: ** $O(nlog\ n)$
+**Time Complexity:** $O(nlog\ n)$
 
 ```Java
 import java.util.PriorityQueue;

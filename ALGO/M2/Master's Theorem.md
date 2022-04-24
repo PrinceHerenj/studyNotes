@@ -8,3 +8,6 @@ Then T(n) has following bounds:
    (when $f(n)=n^{log_b\ a}$)
 3. If $f(n) = \large \Omega(n^{log_b\ a})$, and if $af(n/b)\le cf(n)$ then $T(n)=\large \Theta(f(n))$
    (when $f(n)>n^{log_b\ a}$)
+
+![[Pasted image 20220424223558.png]]
+

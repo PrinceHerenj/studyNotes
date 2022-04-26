@@ -21,16 +21,6 @@ In Structured Analysis:
 Text problem is visualized using Data Flow Diagrams
 DFDs represent the result of structured analysis.
 
-##### Structured Design
-All functions in DFD are mapped to a module structure.
-Also known as Software Architecture.
-
-**Detailed Design**
-* Software Architecture is refined through detailed design
-* can be directly implemented using a programming language.
-
-[[Structure Analysis vs Structured Design]]
-
 #### Structured Analysis
 * Top Down Approach
 * Divide and Conquer Principle
@@ -84,13 +74,13 @@ Asynchronous Operation: If two bubbles connected via data store.
 * provides all with standard terminology
 * CASE helps automatically generate Data Dictionary
 * primitive data defination
-	* + denotes composition of data/ joining of variables a+b
+	* $+$ denotes composition of data/ joining of variables a+b
 	* [,,,] represents selection [a,b]
 	* () represent optional data a+(b)
 	* {} represent iterative data definition. {name}4
 	* {}* represents 0 or more instances
 	* = equivalence
-	* * comment*
+	* $*$ comment
 
 ##### Balancing a DFD
 * Data flowing into or out of bubble must match the data flows of the next level of DFDs
@@ -100,3 +90,14 @@ Asynchronous Operation: If two bubbles connected via data store.
 ![[Pasted image 20220418212241.png]]
 ![[Pasted image 20220418212250.png]]
 ![[Pasted image 20220418212302.png]]
+
+
+#### Structured Design
+All functions in DFD are mapped to a module structure.
+Also known as Software Product Architecture.
+
+**Detailed Design**
+* Software Architecture is refined through detailed design
+* can be directly implemented using a programming language.
+
+[[Structure Analysis vs Structured Design]]

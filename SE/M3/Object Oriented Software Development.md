@@ -11,5 +11,4 @@ Design Patterns are commonly accepted solutions to some problems that often recu
 
 Patterns vs Algorithm: In contrast to algorithms, patterns are more concerned with aspects such as maintainability and ease of developemnt rather than space and time efficiency.
 
-OO
 ### [[Object Oriented Analysis and Design]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1193c6d24f5ddf2",
+        "id": "c4fcff382ef44627",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALGO/M2/Master's Theorem.md",
+            "file": "SE/Formulae.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/M2/Master's Theorem.md",
+                "file": "SE/Formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1193c6d24f5ddf2",
+  "active": "c4fcff382ef44627",
   "lastOpenFiles": [
-    "ALGO/M2/Master's Theorem.md",
-    "ALGO/Algorithm.md",
-    "ALGO/Dynamic Programming/DAC vs DP.md",
-    "ALGO/Dynamic Programming/Floyd Warshall Algorithm.md",
-    "ALGO/Dynamic Programming/Hashing Algorithm.md",
-    "ALGO/Dynamic Programming/Traveling Salesman Problem.md",
-    "ALGO/Dynamic Programming/Matrix Chain Multiplication.md",
-    "ALGO/Dynamic Programming/0 1 Knapsack Problem.md",
-    "ALGO/Dynamic Programming/Dynamic Programming.md",
-    "ALGO/M3/Dijkstra's Algorithm.md"
+    "SE/Formulae.md",
+    "SE/M5/Software Safety and Halstead's Software Science.md",
+    "SE/M5/Module 5 Software Maintenance.md",
+    "SE/M5/Software Reuse.md",
+    "SE/M3/Object Oriented Software Development.md",
+    "SE/M3/Object Oriented Analysis and Design.md",
+    "SE/M5/Computer Aided Software Engineering.md",
+    "SE/M2/Function Oriented Software Design.md",
+    "SE/M4/Coding Phase.md",
+    "SE/M4/Module 4 Testing.md"
   ]
 }

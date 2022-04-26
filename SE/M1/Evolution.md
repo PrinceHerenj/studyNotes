@@ -1,4 +1,4 @@
-SE principles have evolved over the alst sixty years with contributions from various researchers and professionals.
+SE principles have evolved over the last sixty years with contributions from various researchers and professionals.
 
 Early Programmers used to develop using the **[[Ad Hoc Style]]** of development.
 

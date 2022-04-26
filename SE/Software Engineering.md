@@ -6,7 +6,7 @@
 
 #subject
 
-### M1✅
+### M1✅✅
 * Evolution and Impact ✔️
 * Program vs Software Product✔️
 * Emergence✔️
@@ -28,7 +28,7 @@
 * Risk Management✔️
 * Software Configuration✔️
 
-### M2✅
+### M2✅✅
 * Requirement Analysis and Specification✔️
 	* Requirement Gathering and Analysis
 * ==SRS document== Software Design✔️
@@ -42,7 +42,7 @@
 	* Structured Design
 	* Detailed Design
 
-### M3✅
+### M3✅✅
 * Object Modeling using UML✔️
 * UML Diagrams✔️
 	* Use Case Model
@@ -82,9 +82,9 @@
 		* Personal Software Process✔️
 		* Six Sigma✔️
 
-### M5
-* Software Maintainence
-	* Characteristics
-	* Software Reverse Engineering
-	* SM process models
-	* Estimation of Maintenance Cost.
+### M5✅✅
+* Software Maintainence✔️
+	* Characteristics✔️
+	* Software Reverse Engineering✔️
+	* SM process models✔️
+	* Estimation of Maintenance Cost.✔️

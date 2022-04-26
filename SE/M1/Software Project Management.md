@@ -46,7 +46,7 @@ The project size is a measure of the problem complexity in terms of effort and t
 * Step 2: Refine UFP to reflect the actual complexities of real parameters
 * Step 3: Computer FP by further refining UFP
 
-**UFP Computation**
+**FP Computation**
 
 $UFP=(\text{inputs}\times4)+(\text{outputs}\times5)+(\text{inquiries}\times4)+(\text{files}\times10)+(\text{interfaces}\times10)$ 
 Scale $S$ varies from 0 to 5.

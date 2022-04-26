@@ -20,9 +20,10 @@ As challenging and necessary as specification, design and coding
  A triplet $[I,S,O]$
  where I is input, S is state and O is expected output
 
-##### Verification versus Validation
+#### Verification versus Validation
 **Verification**: Whether output of one phase of developemtn conforms to previous phase.
 * Concerned with Phase Containment of Errors.
+
 **Validation**: Whether complete system conforms to SRS.
 ### Design of Test Cases
 Optimal Test Suite is of reasonable size and uncovers many errors as possible
@@ -89,7 +90,8 @@ Asses above properties of a program without executing it
 * Produce reports such as **adequacy of test cases**
 
 #### Types of Testing
-##### Unit Testing: Every module is individually tested in isolation. 
+##### Unit Testing: 
+Every module is individually tested in isolation. 
 * Makes debugging easier.
 * Other modules to interact with may not be ready
 
@@ -102,11 +104,14 @@ After complete Unit Testing, Integration is done according to **integration plan
 **Big Bang IT**
 * All modules are simply put together and tested
 * useful for very small systems
-* Debugging errors found is expensive 
+* Debugging errors found is expensive
+
 **Bottom Up**
 * Integrate bottom level modules first, then slowly move above on the module structure tree
+
 **Top Down**
 * Starts with integration of the main routine, then subroutines and then individual functions
+
 **Mixed Integration Testing**
 * Use both Bottom up and Top Down approaches
 

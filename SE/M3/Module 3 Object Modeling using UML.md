@@ -5,7 +5,7 @@ is a modelling language
 * is a graphical modelling tool, easy to understand and construct
 
 ##### Origin
-* Object Oriented Development in late 1980s and early 1990s.
+* Object Oriented Development in late 1980s and early 1990s. [[Emergence]]
 * UML developed in early 1990s to standardize the large number of object oriented modelling notations.
 * UML based on
 	* Object Modeling Technique by Rumbaugh 1991

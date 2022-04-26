@@ -26,6 +26,7 @@
 	* Interface with boundary objects
 	* Realize use case behaviour
 	* Logic portionof the Domain
+
 ![[Pasted image 20220423144506.png]]
 
 ##### Class Responsibility Collaborator Cards

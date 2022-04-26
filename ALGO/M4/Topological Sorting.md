@@ -1,4 +1,4 @@
-Topological Sorting of a directed acyclid graph $G=(V,E)$ is a **linear ordering** of all vertices such that $G$ contains $E(u,v)$ in which $u$ **SHOULD** appear before $v$.
+Topological Sorting of a directed acyclic graph $G=(V,E)$ is a **linear ordering** of all vertices such that $G$ contains $E(u,v)$ in which $u$ **SHOULD** appear before $v$.
 
 **Algorithm**
 ```

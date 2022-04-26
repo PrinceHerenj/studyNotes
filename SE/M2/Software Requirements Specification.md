@@ -16,20 +16,20 @@
 
 #### Important Categories of Customer Requirements
 An SRS document should clearly document the following aspects of a software:
-* **Functional requirements**
+* ==**Functional requirements**==
   Set of high level functions.A high-level function is one using which the user can get some useful piece of work done, converting some input to output through processing.
-* **Non-functional requirements**
+* ==**Non-functional requirements**==
 	* Design and Implementation constraints: Describe any items that will limit the options available to the devs. Corporate/Regulatory policies
 	* External interfaces required: Hardware, Software and Communications interface, user interfaces, report formats
 	* Other non-functional requirements such as maintainability, portability, usability.
-* **Goals of implementation**: A goal in contrast to the functional and non-functional requirements is not checked by the customer for conformance at the time of acceptance testing.
+* ==**Goals of implementation**==: A goal in contrast to the functional and non-functional requirements is not checked by the customer for conformance at the time of acceptance testing.
 
 #### Processing Logic in Functional Requirements
-**Decision Trees**
+==**Decision Trees**==
 * Edges represent conditions, Leaf Nodes are actions
 * Gives graphic view of logic involved and respective action taken.
 
-**Decision Tables**
+==**Decision Tables**==
 Specify
 * variables to be tested
 * actions to be taken

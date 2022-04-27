@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fcff382ef44627",
+        "id": "8e5920024dc1e068",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SE/Formulae.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4fcff382ef44627",
+  "active": "8e5920024dc1e068",
   "lastOpenFiles": [
+    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
+    "ALGO/M2/Problems in Tutorial Sheet.md",
+    "ALGO/M2/max min.md",
+    "SE/Software Engineering.md",
     "SE/Formulae.md",
     "SE/M5/Software Safety and Halstead's Software Science.md",
     "SE/M5/Module 5 Software Maintenance.md",
     "SE/M5/Software Reuse.md",
     "SE/M3/Object Oriented Software Development.md",
-    "SE/M3/Object Oriented Analysis and Design.md",
-    "SE/M5/Computer Aided Software Engineering.md",
-    "SE/M2/Function Oriented Software Design.md",
-    "SE/M4/Coding Phase.md",
-    "SE/M4/Module 4 Testing.md"
+    "SE/M3/Object Oriented Analysis and Design.md"
   ]
 }

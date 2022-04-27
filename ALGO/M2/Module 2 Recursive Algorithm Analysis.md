@@ -29,4 +29,6 @@ if $a<1,\ T(n)=O(n^k)$
 if $a=1,\ T(n)=O(n^{k+1})$
 if $a>1,\ T(n)=O(n^ka^{n/b})$
 
+
+[[Problems in Tutorial Sheet]]
 #module

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5920024dc1e068",
+        "id": "830611cce65ed5d1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SE/M1/Module 1 Introduction.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SE/M1/Module 1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e5920024dc1e068",
+  "active": "830611cce65ed5d1",
   "lastOpenFiles": [
-    "ALGO/M2/Module 2 Recursive Algorithm Analysis.md",
-    "ALGO/M2/Problems in Tutorial Sheet.md",
-    "ALGO/M2/max min.md",
-    "SE/Software Engineering.md",
-    "SE/Formulae.md",
-    "SE/M5/Software Safety and Halstead's Software Science.md",
-    "SE/M5/Module 5 Software Maintenance.md",
-    "SE/M5/Software Reuse.md",
-    "SE/M3/Object Oriented Software Development.md",
-    "SE/M3/Object Oriented Analysis and Design.md"
+    "SE/M1/Module 1 Introduction.md",
+    "SE/M1/Evolution.md",
+    "DBMS/M1/Module 1 Introduction to DBMS.md",
+    "DBMS/Database Management System.md",
+    "DBMS/M1/Database Users and administrators.md",
+    "DBMS/M1/Transaction Management.md",
+    "DBMS/M1/Database Architecture.md",
+    "DBMS/M1/Database Languages.md",
+    "DBMS/M1/Purpose of Database Systems.md",
+    "DBMS/M1/View of Data.md"
   ]
 }

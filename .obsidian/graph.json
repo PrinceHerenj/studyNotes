@@ -29,17 +29,17 @@
       }
     },
     {
-      "query": "path:SE",
+      "query": "path:DBMS",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 886725
       }
     },
     {
-      "query": "path:WP",
+      "query": "path:SE",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 13688914
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 8.82051282051282,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7098465725571529,
+  "scale": 0.16485131315961501,
   "close": false
 }

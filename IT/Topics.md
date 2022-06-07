@@ -1,9 +1,14 @@
-##### M1
+##### M1✅
 * Introduction to Internet
 * LAN MAN WAN
 * Working of Internet
 	* ISP registration
-	* *
+	* Type of Connection
+		* Dial Up
+		* Broadband
+		* DSL
+		* Satellite
+		* 3G and 4G
 * Requirements for Internet
 * Usages
 * Internet application
@@ -66,7 +71,7 @@
 * Internet Security
 	* Causes
 	* Ways
-##### M2
+##### M2✅
 * History of HTML and W3C
 * Basics of HTML
 * Web Browsers
@@ -76,8 +81,8 @@
 	* ol has type={1,a,A,I,i}
 	* ol has start attribute
 * Links
-	* absolute link <a/>
-	* relative/local link
+	* absolute link %%<a/>%%
+	* relative/ local link
 	* image with anchor
 * <img/>
 * <table/>
@@ -90,12 +95,13 @@
 	* Value
 * Inline, Internal, External CSS
 	* %%<link rel="stylesheet" type="text/css" href="style.css">%%
-* <meta/>
+* %%<meta>%%
 	* %%<meta  name="viewport" content="widht=device-width, initial-scale=1.0">%%
 
-##### M3
+##### M3✅
 * XML
-* Markup Language
+* Markup Language: 
+	* Language defining set of rules to encode documents such that they are both human and machine readable
 * XML characteristics
 	* Extensible
 	* Carries data
@@ -149,6 +155,7 @@
 	* Data Type
 	* Namespace Support
 	* Extensibility
+	* Order of appearing elements
 * XML Parser: Software Library or package that provides a kind of interface for working with XML document.
 	* XML Parser checks for proper format of XML
 	* Goal is to transform XML document into a readable code.
@@ -160,7 +167,7 @@
 	* XmlDoc.getElementByTagName("students")[0].childNode[0].nodeValue;
 * XML DOM Properties
 	* x.nodeName
-	* x.nodeVallue
+	* x.nodeValue
 	* x.parentNode
 	* x.childNodes
 	* x.attributes
@@ -169,16 +176,33 @@
 	* x.appendChild(node)
 	* x.removeChild(node)
 
-##### M4
+##### M4✅
 * Servlet Definition
-* Execution Philosophy
+* Execution Steps
 * Servlet advantages over applets
 * Alternatives of servlet
 * Strength associated with servlets
+	* Efficient
+	* Persistent
+	* Portable
+	* Robust
+	* Extensible
+	* Secure
 * Architecture of Servlet
+	* javax.Servlet
+	* javax.Servlet.http
 * Life cycle of servlet
+	* Web Container
+	* Request
+	* Instanciation and Initialization
+	* init()
+	* service(ServletRequest req, ServletResponse res)
+	* destroy()
 * Pictorial Representation of HttpServlet
 * 3 Ways of creating Servlets
+	* javax.Servlet.servlet interface
+	* GenericServlet service()
+	* HttpServlet()
 * Passing Parameters Directly
 * Retrieve Parameters using Get and Post
 * SERVER SIDE INCLUDE
@@ -191,7 +215,7 @@
 * JSP Engine
 * JSP Components
 
-##### M5
+##### M5✅
 * Pass data control and data between pages
 * JSP Scopes: page, request, session, application
 * Database Connectivity
@@ -207,6 +231,8 @@
 		* execute() can be used for both
 * Atomic Transaction
 * executeBatch()
+	* st.addBatch()
+	* st.executeBatch()
 * Pre-Compilation of Statements
 * Retreiving Results
 * Getting Database Information

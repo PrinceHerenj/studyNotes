@@ -33,6 +33,10 @@
   </body>
 </html>
 ```
+
+##### Output
+![[CA221/Attachments/Output 004.png]]
+
 ---
 
 ### Question 5
@@ -121,6 +125,10 @@ files required for Q5
 </html>
 
 ```
+
+##### Output
+![[CA221/Attachments/Output 005.png]]
+
 ---
 
 ### Question 6
@@ -157,4 +165,8 @@ files required for Q5
   </body>
 </html>
 ```
+
+##### Output
+![[CA221/Attachments/Output 006.png]]
+
 ---

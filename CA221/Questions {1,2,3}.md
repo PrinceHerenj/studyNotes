@@ -19,6 +19,10 @@
   </body>
 </html>
 ```
+
+##### Output
+![[CA221/Attachments/Output 001.png]]
+
 ---
 
 ### Question 2
@@ -69,6 +73,10 @@
   </body>
 </html>
 ```
+
+##### Output
+![[CA221/Attachments/Output 002.png]]
+
 ---
 
 ### Question 3
@@ -184,3 +192,8 @@
   </body>
 </html>
 ```
+
+##### Output
+![[CA221/Attachments/Output 003.png]]
+
+---

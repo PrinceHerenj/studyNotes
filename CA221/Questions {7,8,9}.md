@@ -18,6 +18,10 @@
     <location>Ranchi, JH</location>
 </libraryMgm>
 ```
+
+##### Output
+![[CA221/Attachments/Output 007.png]]
+
 ---
 
 ### Question 8
@@ -45,6 +49,10 @@
     </admin>
 </railwayRsv>
 ```
+
+##### Output
+![[CA221/Attachments/Output 008.png]]
+
 ---
 
 ### Question 9
@@ -85,4 +93,8 @@ document -->
 <!ELEMENT course2 (#PCDATA)>
 <!ELEMENT course3 (#PCDATA)>
 ```
+
+##### Output
+![[CA221/Attachments/Output 009.png]]
+
 ---

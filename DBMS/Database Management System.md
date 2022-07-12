@@ -19,12 +19,12 @@ Introduction
 
 Relational Data Models
 
-- Basic Conecpts
+- Basic Concepts
 - Constraints
 - Keys
 - Entity Relationship Diagram
-- Weak Entity Sets
-- Extended ER Features
+- Weak and Strong Entity Sets
+- Extended ER Features *
 - Reduction of ER diagram to Tables
 - Relational Algebra
 - Tuple Relational Calculus

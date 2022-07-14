@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CA221/Questions {25, 26, 27}.md",
+            "file": "DBMS/M5/Transaction Concept.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86f4926561ca9684",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CA221/Questions {25, 26, 27}.md",
+                "file": "DBMS/M5/Transaction Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "10edbd0414d365ed",
   "lastOpenFiles": [
+    "DBMS/M5/Transaction Concept.md",
+    "DBMS/M5/Transaction and Concurrency Control.md",
     "CA221/Questions {25, 26, 27}.md",
     "CA221/Attachments/Output 026_1.png",
     "CA221/Attachments/Output 026.png",
@@ -96,8 +99,6 @@
     "CA221/Attachments/Output 025_3.png",
     "CA221/Attachments/Output 025_2.png",
     "CA221/Attachments/Output 025_1.png",
-    "CA221/Attachments/Output 001.png",
-    "CA221/Questions {22, 23, 24}.md",
-    "CA221/Attachments/Output 024_1.png"
+    "CA221/Attachments/Output 001.png"
   ]
 }

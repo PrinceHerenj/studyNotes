@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DBMS/M5/Transaction Concept.md",
+            "file": "CA221/Index.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/M5/Transaction Concept.md",
+                "file": "CA221/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "10edbd0414d365ed",
   "lastOpenFiles": [
-    "DBMS/M5/Transaction Concept.md",
-    "DBMS/M5/Transaction and Concurrency Control.md",
-    "CA221/Questions {25, 26, 27}.md",
-    "CA221/Attachments/Output 026_1.png",
-    "CA221/Attachments/Output 026.png",
-    "CA221/Attachments/Output 025.png",
-    "CA221/Attachments/Output 025_3.png",
-    "CA221/Attachments/Output 025_2.png",
-    "CA221/Attachments/Output 025_1.png",
-    "CA221/Attachments/Output 001.png"
+    "CA221/Question 29.md",
+    "CA221/Question 28.md",
+    "CA221/Attachments/Output 029_8.png",
+    "CA221/Attachments/Output 029_7.png",
+    "CA221/Attachments/Output 029_6.png",
+    "CA221/Attachments/Output 029_5.png",
+    "CA221/Attachments/Output 029_4.png",
+    "CA221/Attachments/Output 029_3.png",
+    "CA221/Attachments/Output 029_2.png",
+    "CA221/Attachments/Output 029_1.png"
   ]
 }

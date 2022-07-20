@@ -150,6 +150,6 @@ JDBC to display the name and address of those students who are born after 1995 -
 complete table
 ![[CA221/Attachments/Output 027.png]]
 JSP Output
-![[CA221/Attachments/Output 028.png]]
+![[Output 027_1.png]]
 
 ---

@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "10edbd0414d365ed",
+        "id": "db3fc018ac261ba6",
         "type": "leaf",
+        "dimension": 64.22764227642277,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CA221/Index.md",
+            "file": "DBMS/M4/1. Query Processing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "10edbd0414d365ed",
+        "type": "leaf",
+        "dimension": 35.77235772357724,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DBMS/Database Management System.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "86f4926561ca9684",
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CA221/Index.md",
+                "file": "DBMS/M4/1. Query Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10edbd0414d365ed",
+  "active": "db3fc018ac261ba6",
   "lastOpenFiles": [
-    "CA221/Question 29.md",
-    "CA221/Question 28.md",
-    "CA221/Attachments/Output 029_8.png",
-    "CA221/Attachments/Output 029_7.png",
-    "CA221/Attachments/Output 029_6.png",
-    "CA221/Attachments/Output 029_5.png",
-    "CA221/Attachments/Output 029_4.png",
-    "CA221/Attachments/Output 029_3.png",
-    "CA221/Attachments/Output 029_2.png",
-    "CA221/Attachments/Output 029_1.png"
+    "DBMS/M4/2. Query Optimization.md",
+    "DBMS/M5/Concurrent Executions.md",
+    "DBMS/Database Management System.md",
+    "DBMS/M5/Transaction Concept.md",
+    "DBMS/Normalization.md",
+    "DBMS/Keys.md",
+    "DBMS/M4/1. Query Processing.md",
+    "DBMS/M3/RDB.md",
+    "CA221/Index.md",
+    "CA221/Question 29.md"
   ]
 }
